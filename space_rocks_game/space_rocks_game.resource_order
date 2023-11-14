@@ -21,7 +21,7 @@
     {"name":"obj_game","order":4,"path":"objects/obj_game/obj_game.yy",},
     {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
     {"name":"Sprite6","order":16,"path":"sprites/Sprite6/Sprite6.yy",},
-    {"name":"Object5","order":5,"path":"objects/Object5/Object5.yy",},
+    {"name":"obj_bomb","order":5,"path":"objects/obj_bomb/obj_bomb.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"spr_bomb","order":4,"path":"sprites/spr_bomb/spr_bomb.yy",},
     {"name":"obj_rock","order":3,"path":"objects/obj_rock/obj_rock.yy",},

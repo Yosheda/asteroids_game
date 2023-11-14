@@ -90,3 +90,20 @@ if (l3B91B904_0)
 	/// @DnDSaveInfo : "objectid" "obj_bullet"
 	instance_create_layer(x + 0, y + 0, "Instances", obj_bullet);
 }
+
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Mouse_Pressed
+/// @DnDVersion : 1.1
+/// @DnDHash : 527CAD02
+/// @DnDArgument : "button" "mb_right"
+var l527CAD02_0;
+l527CAD02_0 = mouse_check_button_pressed(mb_right);
+if (l527CAD02_0)
+{
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 203B499C
+	/// @DnDParent : 527CAD02
+	/// @DnDArgument : "objectid" "obj_bomb"
+	/// @DnDSaveInfo : "objectid" "obj_bomb"
+	instance_create_layer(0, 0, "Instances", obj_bomb);
+}
