@@ -8,3 +8,11 @@
 /// @DnDArgument : "var_1" "direction"
 speed = 10;
 direction = obj_player.image_angle;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Scale
+/// @DnDVersion : 1
+/// @DnDHash : 20414648
+/// @DnDArgument : "xscale" ".33"
+/// @DnDArgument : "yscale" ".33"
+image_xscale = .33;
+image_yscale = .33;

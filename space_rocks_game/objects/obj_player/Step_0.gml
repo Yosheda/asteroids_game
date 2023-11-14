@@ -103,7 +103,9 @@ if (l527CAD02_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 203B499C
 	/// @DnDParent : 527CAD02
+	/// @DnDArgument : "xpos_relative" "1"
+	/// @DnDArgument : "ypos_relative" "1"
 	/// @DnDArgument : "objectid" "obj_bomb"
 	/// @DnDSaveInfo : "objectid" "obj_bomb"
-	instance_create_layer(0, 0, "Instances", obj_bomb);
+	instance_create_layer(x + 0, y + 0, "Instances", obj_bomb);
 }
