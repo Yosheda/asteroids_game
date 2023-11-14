@@ -16,3 +16,10 @@ direction = obj_player.image_angle;
 /// @DnDArgument : "yscale" ".33"
 image_xscale = .33;
 image_yscale = .33;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 01DF5EA0
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "can_use_bomb"
+can_use_bomb = false;
