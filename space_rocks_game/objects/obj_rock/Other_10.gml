@@ -1,9 +1,3 @@
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 1D4BFB91
-/// @DnDApplyTo : {obj_bullet}
-with(obj_bullet) instance_destroy();
-
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
 /// @DnDHash : 2497A6ED
