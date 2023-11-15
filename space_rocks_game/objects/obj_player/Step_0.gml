@@ -129,6 +129,7 @@ if (l527CAD02_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 30A34AA1
 		/// @DnDParent : 5FF43586
-		alarm_set(0, 30);
+		/// @DnDArgument : "steps" "300"
+		alarm_set(0, 300);
 	}
 }
